@@ -8,3 +8,5 @@ Diana DeGette leads the Congressional election with 73.8% of the total vote or 2
 Diana DeGetter has won the election with 73.8% of votes. A staggering vote total of 272,892.
 ## Election_Audit Summary
 As you can see, this is a very handy script for displaying voter turnout data. To take it a step further, one might base who they voted for due to their occupation. We could collect the occupations and display data based on what occupation primarily voted for each candidate. You could also display the runner-up by displaying the second place votes. 
+#### Resources
+https://github.com/jbtrahin/Module3-Challenge-JB-Trahin/commit/fed8aad51d917ea43778fca548d6be0840205bbf
